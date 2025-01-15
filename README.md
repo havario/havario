@@ -11,5 +11,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=havario&theme=aura&layout=compact&card_width=360&exclude_repo=qdan-res,qdan-static" alt="Top Langs" style="max-width: 48%; height: auto;">
   </a>
 </div>
-
-If privacy is important to you, consider building your own Gitea instance instead of using GitHub.
