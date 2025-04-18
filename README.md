@@ -1,6 +1,6 @@
 <div align="center">
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=havario&show_icons=true&include_all_commits=true&theme=one_dark_pro&hide_border=true&hide=contribs" alt="havario's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=havario&layout=compact&theme=one_dark_pro&hide_border=true&hide=javascript,html,css" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=havario&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true&hide=contribs" alt="havario's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=havario&layout=compact&theme=flag-india&hide_border=true&hide=javascript,html,css" /> |
 | ------------- | ------------- |
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
