@@ -6,6 +6,11 @@
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <img src="https://raw.githubusercontent.com/havario/havario/output/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
+💪 正在学习
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
+
 🧰 常用的工具
 
 ![iPhone Badge](https://img.shields.io/badge/iPhone-A2AAAD?logo=apple&logoColor=fff&style=flat)
@@ -17,6 +22,10 @@
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=vscode,git" /><br>
+
+<!-- svg -->
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 <!-- ########################################## 分割 ########################################## -->
