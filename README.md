@@ -1,8 +1,6 @@
-# workflows
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/github/license/havario/workflows.svg?style=flat" alt="License" />
-<img src="https://img.shields.io/github/last-commit/havario/workflows?style=flat" alt="Last Commit" />
-</p>
+| <img src="https://github-readme-stats.vercel.app/api?username=havario&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&hide=contribs" alt="havario's github stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=havario&layout=compact&theme=vue&hide_border=true&hide=javascript,html,css" /> |
+| ------------- | ------------- |
 
-debug workflows.
+</div>
