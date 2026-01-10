@@ -1,4 +1,4 @@
-_"Не розповідай мамі, що я пішов у Бахмут."_
+Не розповідай мамі, що я пішов у Бахмут.
 
 | <img src="https://github-readme-stats-psi-sepia-18.vercel.app/api?username=havario&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs&theme=default&icon_color=0366d6&title_color=0366d6" alt="havario's github stats" /> | <img src="https://github-readme-stats-psi-sepia-18.vercel.app/api/top-langs/?username=havario&layout=compact&hide_border=true&hide=javascript,html,css&theme=default&icon_color=0366d6&title_color=0366d6" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
